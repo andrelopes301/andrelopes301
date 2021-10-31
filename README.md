@@ -10,12 +10,10 @@
 </p>
 
 <hr>
+
+### 🔧 Languages/Skills:
 <p align="left">
-  🔧 <strong>Languages:</strong> 
-  
-  <br>
-  <br>
-  
+
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -33,12 +31,10 @@
 
 <hr width="58%">
 
+
+### 💼 Tools:
 <p align="left">
-  💼 <strong>Tools:</strong> 
-  
-  <br>
-  <br>
-  
+    
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Visual Studio](	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)<br>
   ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -49,13 +45,10 @@
 <hr width="58%">
 
 
-<p align="left">
-  💌 <strong>Find me:</strong>
-</p>
+### 💌 Find me:
 
 <p align="left">
   
-  <br>
     
   <a href="mailto:andrerlopes00@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
