@@ -6,7 +6,7 @@
 <br>
 
 <p align="left"> 
-  I'm a <strong>Software Engineer Student </strong> from Portugal, currently in my final year at Instituto Superior de Engenharia de Coimbra
+  I'm a <strong>Software Engineer Student </strong> from Portugal, graduated at Coimbra Institute of Engineering
 </p>
 
 <hr>
