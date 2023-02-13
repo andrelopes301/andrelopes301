@@ -6,9 +6,9 @@
 <br>
 
 <p align="left"> 
-André Lopes, a Portuguese <strong>software engineer </strong> with a degree from Coimbra Institute of Engineering. Passionate about app development and problem-solving through code.<br><br>
-Currently learning <strong>Outsystems</strong>, a low-code development platform that allows for quick and efficient custom app creation with minimal coding.<br><br>
-Also attending a <strong>Master in Informatics Engineering</strong> to deepen understanding of information systems and stay current with industry trends.
+I am André Lopes, a Portuguese <strong>software engineer </strong> with a degree from Coimbra Institute of Engineering. Passionate about app development and problem-solving through code.<br><br>
+I'm currently learning <strong>Outsystems</strong>, a low-code development platform that allows for quick and efficient custom app creation with minimal coding.<br><br>
+I'm  also attending a <strong>Master in Informatics Engineering</strong> to deepen understanding of information systems and stay current with industry trends.
 </p>
 
 <hr>
