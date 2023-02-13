@@ -5,10 +5,10 @@
 
 <br>
 
-<p align="left"> 
+<p align="center"> 
 André Lopes, a Portuguese <strong>software engineer </strong> with a degree from Coimbra Institute of Engineering. Passionate about app development and problem-solving through code.<br><br>
 Currently learning <strong>Outsystems</strong>, a low-code development platform that allows for quick and efficient custom app creation with minimal coding.<br><br>
-Pursuing a <strong>Master in Informatics Engineering</strong> to deepen understanding of information systems and stay current with industry trends.
+Also pursuing a <strong>Master in Informatics Engineering</strong> to deepen understanding of information systems and stay current with industry trends.
 </p>
 
 <hr>
