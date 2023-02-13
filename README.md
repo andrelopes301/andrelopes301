@@ -6,7 +6,7 @@
 <br>
 
 <p align="left"> 
-André Lopes, a Portuguese <strong>software engineer </strong> with a degree from Coimbra Institute of Engineering. Passionate about app development and problem-solving through code.\n\
+André Lopes, a Portuguese <strong>software engineer </strong> with a degree from Coimbra Institute of Engineering. Passionate about app development and problem-solving through code.\n
 Currently learning <strong>Outsystems</strong>, a low-code platform for quick custom app creation.\n 
 Pursuing a <strong>Master in Informatics Engineering</strong> to deepen understanding of information systems and stay current with industry trends.
 </p>
